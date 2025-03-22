@@ -1,6 +1,6 @@
-streamlit==1.37.1
-yt-dlp==2024.8.6
-pillow==10.4.0
-pandas==2.2.2
-requests==2.32.3
-openpyxl==3.1.5
+streamlit
+yt-dlp
+pillow
+pandas
+requests
+openpyxl
